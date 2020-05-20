@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.active {
+  border: 2px solid black;
+}
+
+.up-size {
+  margin-right: 10px;
+}
